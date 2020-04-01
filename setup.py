@@ -6,7 +6,7 @@ setup(name='elspecAutomationSetup',
       version='1.0.0',
       description="Setup for Elspec Automation",
       long_description="""Libraries needed for automation""",
-      classifiers=[], # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
+      classifiers=["Operating System :: Microsoft :: Windows :: Windows 10"], # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
       keywords='elspec',
       author='Elspec Automation',
       author_email='nissimd@elspec-ltd.com',
